@@ -1,0 +1,5 @@
+.no-focus-outline:focus {
+    outline: none;
+    box-shadow: 0 0 0 0.2rem rgba(0, 0, 0, 0.5) !important;
+    border-color: black;
+  }
